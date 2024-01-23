@@ -5,16 +5,23 @@
 h1 {
     color:blue;
     background-color: chartreuse;
+    font-size: 40px;
 }
 h2 {
     color: red;
     background-color: aqua;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h3 {
     color: greenyellow;
+    background-color: black;
+    font-size: 40px;
 }
 footer {
     text-align: center;
     background-color: blueviolet;
     color:bisque;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }

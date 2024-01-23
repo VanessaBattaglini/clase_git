@@ -3,7 +3,8 @@
     margin: 0;
 }
 h1 {
-    color:blue
+    color:blue;
+    background-color: chartreuse;
 }
 h2 {
     color: red;
@@ -11,4 +12,9 @@ h2 {
 }
 h3 {
     color: greenyellow;
+}
+footer {
+    text-align: center;
+    background-color: blueviolet;
+    color:bisque;
 }
